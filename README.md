@@ -10,10 +10,10 @@
 
 ## SPECIAL THANKS 🙇
 
-➤ [_thelynx001_](https://github.com/thelynx001/) for making the amazing site for this repo!
+➤ [5hubh4m-cyber](https://github.com/5hubh4m-cyber/) for making the amazing site for this repo!
 
 ## LICENSE 
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-➤ To the extent possible under law, [_thelynx001_](https://github.com/thelynx001/) has waived all copyright and related or neighboring rights to this work.
+➤ To the extent possible under law, [5hubh4m-cyber](https://github.com/5hubh4m-cyber/) has waived all copyright and related or neighboring rights to this work.
