@@ -5,7 +5,7 @@
 </div>
 <br>
 <div align="center">
-<img alt="_lynx_" src="img/favi.png"> </img>
+<img alt="_lynx_" src="img/logo.gif"> </img>
 </div>
 
 ## SPECIAL THANKS 🙇
